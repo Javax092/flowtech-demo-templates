@@ -1,0 +1,28 @@
+{
+  "companyName": "Clínica Veterinária Armazém Animal",
+  "responsibleName": "armazemanimal",
+  "segment": "CLINIC",
+  "city": "Manaus",
+  "instagram": "armazem.animal",
+  "whatsapp": "92982019100",
+  "headline": "Revolucione o bem-estar animal em Manaus com a Clínica Veterinária Armazém Animal",
+  "subheadline": "Nossas clínicas de alta tecnologia e profissionais altamente qualificados são sua melhor escolha para cuidar dos seus pets.",
+  "cta": "[Cadastre-se agora] e saiba mais sobre nossos serviços personalizados em Manaus!",
+  "primaryPain": "Seu pet está doente ou lesionado, você precisa de um serviço de emergência veterinária imediato.",
+  "mainPromise": "A Clínica Veterinária Armazém Animal em Manaus é a solução perfeita para todos os seus problemas de saúde animal. ",
+  "sections": [
+    {
+      "title": "Sobre Nós",
+      "description": "Conheça nossa clínica veterinária moderna e nossos profissionais altamente qualificados que estão aqui para cuidar dos seus pets."
+    },
+    {
+      "title": "Serviços",
+      "description": "Contamos com uma variedade de serviços em Manaus, incluindo atendimento de urgência, exames médicos completos e cirurgias especializadas. "
+    },
+    {
+      "title": "Perguntas Frequentes",
+      "description": "Descubra nossas respostas aos mais comuns problemas que você pode ter sobre cuidar da sua saúde animal."
+    }
+  ],
+  "whatsappMessage": "Olá, estou interessado em agendar uma consulta veterinária. Pode me dizer quando e onde posso fazer isso?"
+}
