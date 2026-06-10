@@ -2,6 +2,13 @@ import { notFound } from "next/navigation";
 import fs from "fs";
 import path from "path";
 
+type DemoSection =
+  | string
+  | {
+      title?: string;
+      description?: string;
+    };
+
 type Demo = {
   companyName?: string;
   responsibleName?: string;
@@ -12,7 +19,7 @@ type Demo = {
   headline?: string;
   subheadline?: string;
   cta?: string;
-  sections?: string[];
+  sections?: DemoSection[];
 };
 
 function getDemo(slug: string): Demo | null {
@@ -31,6 +38,20 @@ function getDemo(slug: string): Demo | null {
 
   const raw = fs.readFileSync(filePath, "utf8");
   return JSON.parse(raw);
+}
+
+function renderSection(section: DemoSection, index: number) {
+  if (typeof section === "string") {
+    return section;
+  }
+
+  return (
+    <>
+      <strong>{section.title || `Seção ${index + 1}`}</strong>
+      <br />
+      <span>{section.description || ""}</span>
+    </>
+  );
 }
 
 export default async function DemoPage({
@@ -66,7 +87,7 @@ export default async function DemoPage({
 
       <ul>
         {(demo.sections || []).map((section, index) => (
-          <li key={index}>{section}</li>
+          <li key={index}>{renderSection(section, index)}</li>
         ))}
       </ul>
 
