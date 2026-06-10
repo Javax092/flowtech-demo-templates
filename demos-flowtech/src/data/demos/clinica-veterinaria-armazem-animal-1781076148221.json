@@ -1,0 +1,28 @@
+{
+  "companyName": "Clínica Veterinária Armazém Animal",
+  "responsibleName": "armazemanimal",
+  "segment": "CLINIC",
+  "city": "Manaus",
+  "instagram": "armazem.animal",
+  "whatsapp": "92982019100",
+  "headline": "Melhorar sua Clínica Veterinária com o Armazém Animal",
+  "subheadline": "Fazendo a diferença na saúde e bem-estar dos seus animais de estimação.",
+  "cta": "<a href='#' class='btn btn-primary'>Entre em contato</a>",
+  "primaryPain": "Manter uma clínica veterinária competitiva e eficaz é um desafio.",
+  "mainPromise": "Reduzir custos, melhorar a eficiência do atendimento e aumentar as vendas com nossas soluções de gestão de clínicas.",
+  "sections": [
+    {
+      "title": "Oportunidades",
+      "description": "Assegure que sua clínica está atualizada e competitiva através de nossa auditoria especializada."
+    },
+    {
+      "title": "Produtos recomendados",
+      "description": "Nossos produtos incluem um conjunto completo de soluções de gestão, desde software para agendamento até sistemas de controle de estoque eficazes."
+    },
+    {
+      "title": "Especialistas em Gestão de Clínicas Veterinárias",
+      "description": "Com experiência profunda na área de saúde animal e especializado na transformação digital da gestão de clínicas, estamos aqui para ajudar a levantar seu negócio ao próximo nível."
+    }
+  ],
+  "whatsappMessage": "Olá, sou do Armazém Animal. Preciso de ajuda com minha clínica veterinária em Manaus?"
+}
