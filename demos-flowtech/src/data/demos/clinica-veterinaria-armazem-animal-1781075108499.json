@@ -1,0 +1,28 @@
+{
+  "companyName": "Clínica Veterinária Armazém Animal",
+  "responsibleName": "armazemanimal",
+  "segment": "CLINIC",
+  "city": "Manaus",
+  "instagram": "armazem.animal",
+  "whatsapp": "92982019100",
+  "headline": "Seu Animal Felizes em Manaus",
+  "subheadline": "A Clínica Veterinária Armazém Animal está aqui para cuidar de você e seu amigo quatro patas!",
+  "cta": "<a href='https://www.armazemanimal.com.br' target='_blank'>Visite nosso site</a> ou <a href='tel:+558199999-0000' target='_blank'>Contate-nos agora!</a>",
+  "primaryPain": "Cuidar de um animal de estimação é uma responsabilidade, mas também é uma parte incrível da sua vida. Quando seu amigo quatro patas está doente ou machucado, você quer estar seguro de que eles estão em boas mãos.",
+  "mainPromise": "A Clínica Veterinária Armazém Animal oferece cuidados qualificados e eficientes para garantir a saúde saudável dos seus animais de estimação. Com um profissionalismo altamente capacitado, nossa equipe está aqui para ajudar você e sua mascote quando precisar.",
+  "sections": [
+    {
+      "title": "Sobre Nós",
+      "description": "A Clínica Veterinária Armazém Animal é uma unidade de cuidados veterinários localizada em Manaus. Temos profissionais especializados em cuidar não apenas dos animais, mas também de suas famílias. Estamos aqui para garantir que seus amigos quatro patas recebam atendimento impecável e cuidado profissional."
+    },
+    {
+      "title": "Serviços",
+      "description": "Oferecemos uma variedade de serviços veterinários, incluindo consultas médicas, cirurgias, vacinas e higienização, bem como cuidados paliativos para animais em fase terminal. Estamos aqui para garantir que sua vida animal seja a melhor possível."
+    },
+    {
+      "title": "Contato",
+      "description": "<strong>Contate-nos agora!</strong> Queremos ser seu parceiro de saúde e bem-estar para seus amigos quatro patas. Fique em contato conosco por e-mail, telefone ou WhatsApp: <a href='tel:+558199999-0000' target='_blank'>+55 81 99999-0000</a>. Ou visite nosso site <a href='https://www.armazemanimal.com.br' target='_blank'> aqui </a> para mais informações."
+    }
+  ],
+  "whatsappMessage": "+558199999-0000"
+}
