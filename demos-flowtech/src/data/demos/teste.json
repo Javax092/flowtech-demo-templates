@@ -1,0 +1,28 @@
+{
+  "companyName": "Empresa Teste",
+  "responsibleName": "Responsável Teste",
+  "segment": "Academia",
+  "city": "Manaus",
+  "instagram": "empresa.teste",
+  "whatsapp": "92999999999",
+  "headline": "Uma presença digital mais clara, profissional e preparada para vender",
+  "subheadline": "Organize seus serviços, fortaleça sua autoridade e facilite o contato de novos clientes.",
+  "cta": "Chamar no WhatsApp",
+  "primaryPain": "Hoje muitos negócios perdem oportunidades porque o cliente não encontra informações claras antes de chamar.",
+  "mainPromise": "Criamos uma estrutura digital focada em gerar confiança e facilitar a conversão.",
+  "sections": [
+    {
+      "title": "Autoridade",
+      "description": "Apresente sua marca, diferenciais e prova social com mais clareza."
+    },
+    {
+      "title": "Conversão",
+      "description": "Direcione visitantes para o WhatsApp com chamadas objetivas."
+    },
+    {
+      "title": "Organização",
+      "description": "Centralize informações importantes em uma página profissional."
+    }
+  ],
+  "whatsappMessage": "Olá, vi a demonstração e quero entender melhor a proposta."
+}
